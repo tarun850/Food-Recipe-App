@@ -6,3 +6,6 @@ The app dislpays ingredients that are required to prepare the recipe, for full d
 User can also adjust the no of servings, add ingredents to their shopping list.
 users can also save recipe as favourites using the heart button.
 Users can also modify the shopping list as per availability of ingredients at home.
+
+
+Author
